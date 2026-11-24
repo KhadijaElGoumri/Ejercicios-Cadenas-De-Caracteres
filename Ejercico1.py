@@ -1,0 +1,7 @@
+#Escribir por pantalla cada carácter de una cadena introducida por teclado
+#khadija el goumri
+#fecha(24-11-2026)
+cadena = input("Introduce una cadena: ")
+
+for caracter in cadena:
+    print(caracter)
